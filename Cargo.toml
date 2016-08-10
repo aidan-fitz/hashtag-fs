@@ -1,5 +1,5 @@
 [package]
-name = "hashtag-fs"
+name = "hashtagfs"
 version = "0.1.0"
 authors = ["Aidan Fitzgerald <acf67@cornell.edu>"]
 
